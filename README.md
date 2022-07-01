@@ -38,7 +38,7 @@ The reliability of links for data on this site is probably going to be lame, at 
 
 Why? Because we won't really have an understanding for the folder schema until we use if for a year or so.
 
-## Example of What Might Change
+#### Example of What Links Might Change
 
 Let's say you have Knowledge Base explainer for the best resources you found online for streaming in assignment 6.
 
@@ -46,6 +46,6 @@ So you create `STREAMING_RESOURCES.md` as a Pull Request, and it is placed under
 
 This is found to be super helpful to a lot of students so they link to it accordingly. Then 6 months later the directories are refactored and all of these links are then broken!
 
-## What to do
+#### What to do about changing links
 
 When you link to these docs, always know that the links could change.
