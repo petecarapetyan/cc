@@ -18,3 +18,5 @@ Even for stuff you already know, coding together as a team lets you learn differ
 - Tricks for handling long chains of calls
 - How to set expectations and budget your time
 - Common go-tos for googling common situations
+- Scripts
+- cheats

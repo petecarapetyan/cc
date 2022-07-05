@@ -1,8 +1,10 @@
 # Git - Team Reps
 
-A full array of Git fundamentals is pretty much mandatory to be an effective coder on almost any team in the world.
+Git basics are pretty much mandatory to be an effective coder on almost any team in the world.
 
-What we are discovering in the CRUD sessions is that bootcampers really want better team skills than the minimum it takes to submit assignments.
+What we are discovering in the CRUD sessions is that bootcampers really want better team skills than the minimum it takes to submit assignments. 
+
+We also learned that the CRUD work tends to slow to a crawl as we teach each other git commands. So that's why we moved all the git reps here, instead.
 
 Git Team Reps sessions are not as formalized as CRUD Team Reps, which require a longer commitment. In Git Team Reps you just hang out and participate until you feel confident enough to handle what your first job will throw at you.
 
