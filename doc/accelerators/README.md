@@ -20,9 +20,9 @@ So we're making sure every bootcamper has this opportunity.
 
 ## Team Reps
 
-- [Git Reps](GIT_REPS)
-- [CRUD Webapp Reps](CRUD_REPS)
-- [Standards Reps](STANDARDS_REPS)
+- [Git Reps](GIT_REPS.md)
+- [CRUD Webapp Reps](CRUD_REPS.md)
+- [Standards Reps](STANDARDS_REPS.md)
 
 See expanded version of each of these from the linked pages.
 
@@ -47,4 +47,4 @@ Generally:
 
 Most bootcampers are working other jobs or schooling. So we make the Team Reps schedules as flexible as we possibly can to encourage the widest involvement.
 
-[How we will schedule Team Reps](SCHEDULE_TEAM_REPS)
+[How we will schedule Team Reps](SCHEDULE_TEAM_REPS.md)
