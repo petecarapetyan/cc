@@ -40,9 +40,9 @@ Last - and this is really only true about the CRUD Team Meetings - we can have m
 
 You made a contract to finish a set amount of work to graduate the bootcamp.
 
-Since this extra work would - technically, at least - add to that workload, then it should be optional.
+Since this extra work would - technically, at least - add extra to that workload, then it should be optional.
 
-There are questions about whether or not it is actually easier to add a little more in the way of repetition and grounding yourself in the standards. But we'll save that argument for others to make, in the future.
+It is a possible paradox that repetition at the team level might reduce, rather than increase the cumulative effort required to hit your target of getting a job. Nonetheless, we can't contractually require that because it wouldn't be fair to change the contract after you already signed it.
 
 [Bach to top of page](#frequently-asked-questions)
 
@@ -54,6 +54,8 @@ Which is to say you can keep excellent metrics of all your work to wow your new 
 
 But here's the rub, if you do both - even in an incomplete fashion - they reinforce each other.
 
+And few things are more convincing to a prospective employer than reps in the area intended. "I did this thing once" is not as convincing as "I did this thing dozens of times"
+
 [Bach to top of page](#frequently-asked-questions)
 
 ## What if my Metrics are incomplete?
@@ -64,6 +66,6 @@ Trevor and I were talking one day about all the reps that a bootcamper graduates
 
 If an employer knew these stats, how much better would he view your capabilities?
 
-So the name of this game isn't perfection - you're going to do things here that weren't quantified. The name of this game is to approach a workable summary that would show you in good light. If you don't get it all, don't sweat it.
+So the name of this game isn't perfection - you're going to do things here that weren't quantified. The name of this game is to approach a workable summary that would - at minimum - attempt to show you in the best light possible. If you don't get it all, don't sweat it. Good enough is good enough.
 
 [Bach to top of page](#frequently-asked-questions)
