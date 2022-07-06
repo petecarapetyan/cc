@@ -3,7 +3,24 @@
 ### Frequently Asked Questions
 
 - [Flexible Schedule? I don't get it](#flexible-schedule)
-- [Why Are These Optional](#why-optional)
+- [Why Are These Optional?](#why-optional)
+- [What if my Metrics are incomplete?](#what-if-my-metrics-are-incomplete)
+- [What role will I play on the teams?]()
+
+## What role will I play on the teams?
+
+One thing you'll discover from working on a team, is that it's a lot easier to get your reps in when your in your groove. No matter what types of roles you normally assume within a group dynamic:
+
+- Build a team
+- Lead a team
+- Join a team
+- Support a team
+
+It's not important which role you play. What's important is that you find your approach and make it work for you. 
+
+Negotiate the role you feel most comfortable with.
+
+[Bach to top of page](#frequently-asked-questions)
 
 ## Flexible Schedule
 
@@ -26,5 +43,27 @@ You made a contract to finish a set amount of work to graduate the bootcamp.
 Since this extra work would - technically, at least - add to that workload, then it should be optional.
 
 There are questions about whether or not it is actually easier to add a little more in the way of repetition and grounding yourself in the standards. But we'll save that argument for others to make, in the future.
+
+[Bach to top of page](#frequently-asked-questions)
+
+## Do Team Reps have anything to do with Metrics?
+
+You don't have to do either, or both. In that sense, they are not related. But they ARE complimentary.
+
+Which is to say you can keep excellent metrics of all your work to wow your new employer, without attending a single Team Reps session. Or, the opposite.
+
+But here's the rub, if you do both - even in an incomplete fashion - they reinforce each other.
+
+[Bach to top of page](#frequently-asked-questions)
+
+## What if my Metrics are incomplete?
+
+Dude! ALL Metrics are incomplete! Here's this story:
+
+Trevor and I were talking one day about all the reps that a bootcamper graduates with, and how almost none are quantified. How many times did you do each of a loop, a variable assignment, a REST call or so many other things? 
+
+If an employer knew these stats, how much better would he view your capabilities?
+
+So the name of this game isn't perfection - you're going to do things here that weren't quantified. The name of this game is to approach a workable summary that would show you in good light. If you don't get it all, don't sweat it.
 
 [Bach to top of page](#frequently-asked-questions)
