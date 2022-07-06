@@ -1,4 +1,4 @@
-# cc/doc repository
+# CC accelerators
 
 The cc/doc site is for _**publicly shared**_ documents useful to coderscampus bootcamp students - nothing proprietary can be found on this site.
 
