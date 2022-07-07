@@ -5,7 +5,7 @@
 - [Flexible Schedule? I don't get it](#flexible-schedule)
 - [Why Are These Optional?](#why-optional)
 - [What if my Metrics are incomplete?](#what-if-my-metrics-are-incomplete)
-- [What role will I play on the teams?]()
+- [What role will I play on the teams?](#what-role-will-i-play-on-the-teams)
 
 ## What role will I play on the teams?
 
