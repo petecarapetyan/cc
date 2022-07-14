@@ -1,11 +1,8 @@
-# Accelerators
+# Reps == Repetition == Muscle Memory
 
-Optional beginning in Q3 2022 - Accelerators for CodersCampus bootcampers:
+With these reps that we do as a team or a group, if you want that job as a coder, we believe we've got what you need to get you there.
 
-- Team Reps
-- Metrics
-
-Accelerate your progress in bootcamp by opting in to either/both of these approaches.
+Accelerate your progress in bootcamp by opting in on these approaches.
 
 ## Additional Information: FAQ
 
@@ -25,21 +22,19 @@ So we're making sure every bootcamper has this opportunity.
 ## Team Reps
 
 - [Git Reps](git/)
-- [CRUD Webapp Reps](crud/)
-- [Standards Reps](standards/)
+- [CRUD Reps](crud/)
+- [Interview Reps](interview/)
 
 See expanded version of each of these from the linked pages.
 
-## Scheduling
+## Scheduling Topics
 
 The General Schedule:
 
-- Monday -> Standards Reps
-- Wednesday -> CRUD Reps
+- Monday -> Interview Reps
+- Tuesday, Wednesday, Thurs -> CRUD Reps
 - end of week -> Git Reps
-- Every checkin, assignment & Team Reps Meeting -> Metrics
 
 Most bootcampers are working other jobs or schooling. So we make the Team Reps schedules as flexible as we possibly can to encourage the widest involvement.
 
-[How we will schedule Team Reps](schedule/)
-
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&mode=WEEK&src=ZHVvYzBiZnJmNDQycGRna3NsYzV0Z2k0OGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73" style="border:solid 1px #777" width="800" height="1000" frameborder="0" scrolling="no"></iframe>

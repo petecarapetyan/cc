@@ -15,3 +15,34 @@ The work you do in Git Team Reps helps you be effective in CRUD Team Reps sessio
 It's not mandatory, and it's not even sequential - you could do both at the same time.
 
 Main thing is don't expect your CRUD Team members to slow down to help you with Git issues. That's for THIS team.
+
+## Some Basics We Should Cover
+
+partial list of skills practiced
+
+- fork
+- clone
+- import into IDE
+- multiple IDE options
+- code review with rules about:
+  - comments
+  - formatting
+  - unused imports
+- rebase
+- squash
+- remove comments
+- manual merge conflict
+- script
+- follow commit message meta
+- PR
+- shell and/or github desktop
+- bitbucket and gitlab
+
+## What Content Should We Practice On?
+
+- KB additions
+- comment out Trevor's assignment app
+- these docs
+- each other's repos
+
+

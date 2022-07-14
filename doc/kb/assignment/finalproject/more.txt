@@ -1,0 +1,34 @@
+Joseph Schlosser
+I'm currently having trouble figuring out what my project itself should be. I could definitely use some guidance at this stage
+Pete Carapetyan
+Yeah well one strategy that could help is to consider the topic AFTER you peel it back to a doable number of features.
+In other words, if you really like 4 or 5 different topical apps, but only 1 would still feel OK after you cut it back to a minimal feature set, then that could be one approach to culling the rest.
+Another approach is to consider it from the perspective of the intended viewer. Whereas you are looking at it with a hyper-critical eye, they are approaching it in the context of “Where does this fit in with 1. Others I have seen 2. What I’m willing to look at for 2-3 minutes maximum.” This is a harsh context but it does point out that visuals and snappiness might outweigh what you would consider as much more substantive features …
+These are the docs I’m working on. Within the next week or so I hope to begin linking some info from “best of” final projects that other students have done. https://ccfbase.web.app/kb/assignment/finalproject/
+Definitely only a work in progress
+Joseph Schlosser
+Those docs are a huge help! I'll try and get an outline worked out and sent to you as soon as possible.
+As for my individual project, I've been thinking of a travel app. My plan to book flights/ hotels was too ambitious for my experience. I would like to stick with something relating to travel though because I believe it could be valuable to employers.
+Do you have any suggestions for a more reasonable application that is within my abilities?
+Pete Carapetyan
+Niles did a travel app too, and it also called external APIs
+Came out pretty well, too, although even after “cutting it back” it ended up kicking his ass. Just super ambitious. He learned so much, and definitely will be getting one of the “best of” slots.
+My suggestion is always to do something that you love or relate to - but that’s still too easy to be overly ambitious.
+One student - forgot who - came up with the idea of a “mock … app”. The idea was that it would show off one or two features of a … app, as if in context of a greater app. But instead just showing how that one or two features might work - hence the “mock” name, meaning not the real deal.
+Your “moment” in this app - and you won’t have as many as you might guess - is that moment when your prospective interviewer actually spends 2 minutes looking at the app, and then asks you a question about it. When you answer “here is what I learned yada yada” he will probably say to himself “oh yeah, that shows me the kind of guy we would be hiring, and what he will bring to the team”. That is EVERYTHING you are doing the boot camp for, that one moment. And that, Joseph, does not require a perfect choice of a topic, but instead the interviewers ability to see what you learned and how you might be useful on his team.
+Joseph Schlosser
+Sounds good, I'll start looking into some similar sites online to search for a more condensed topic
+Do you mind if I reach out to Niles for some tips?
+Pete Carapetyan
+Or even just throw a dart. Whatever it hits is your app subject - do 3 tables and a security layer and …
+I would reach out to anyone and everyone heck yeah.
+Everyone loves to bloviate 
+And Ethan and Dustin and …. Mo and Tristan
+Ercan did the most amazing app so far, FYI - total mind effer
+did it fast, too
+Trying to get Ercan to do a youtube now, it will take some time
+Also, for someone of my age in my area (NJ/NY), how is the job market these days? Do you think I'd be able to land something with a good interview and project?
+Pete Carapetyan
+Dustin and Ethan did great, Niles still suffering, but the age thing gave Dustin and Ethan the advantage. Why? Only one reason, they were ridiculously persistent and their confidence shone through. Dustin already got a raise and a promotion :slightly_smiling_face: and is leading a team, I think.
+The hard part about being 20 is you haven’t had your ass kicked enough to fight back hard. I’m being a bit flip here, but Ethan has a kid and one on the way, and he attended every checkin every day from the scaffold where he was laying brick. That’s how bad he wanted it. Almost impossible for me to want something that bad until I was 35 so the ability to reach deep inside will be what makes this happen
+You’re obviously smart as all get-out so that won’t be a problem. I barely know you and I’d still say you’re going to be super successful, even if a bit tentative, at first.
