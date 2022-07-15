@@ -2,7 +2,7 @@
 
 As is appropriate for a boot camp, Trevor’s guidance through the spring security is a summary rather than an exhaustive course. 
 
-On strategy for taking on Spring Security without going bonkers is to first write a hello world Spring Security app with Login and Registration etc. Then and only then, integrate it with a more complex project such as would be your final project.
+One strategy for taking on Spring Security without going bonkers is to first write a hello world Spring Security app with Login and Registration etc. Then and only then, integrate it with a more complex project such as would be your final project.
 
 With the above as a given, you can ask yourself - wouldn't someone have done that already? Like any good bootcamper, starting with google search is always the most expeditious approach.
 

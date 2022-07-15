@@ -20,3 +20,15 @@ Even for stuff you already know, coding together as a team lets you learn differ
 - Common go-tos for googling common situations
 - Scripts
 - cheats
+
+## Documentation still to follow ...
+
+We've been doing this for months now in the catchup group but pretty nearly without documentation of what we did. So this doc will need to catch up with same so that we can repeat our successes from that time.
+
+## Menu of options
+
+- working as a team on a CRUD app such as https://github.com/DanBerkness/Cars
+- drilling mercilessly on the 4-5 tier model and which tier does which
+- building and iterating on our own stats keeping app
+- issues and tickets on assignment app 
+- any other that works to advance full stack muscle memory

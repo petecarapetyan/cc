@@ -1,3 +1,4 @@
 deploy.sh
 export.sh
 local.sh
+commit.sh
