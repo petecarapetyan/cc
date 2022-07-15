@@ -4,7 +4,7 @@ Any good game requires an equally good set of rules to manage the enjoyment.
 
 ## Why
 
-The very first thing you need is a "Why?"
+The very first thing you need is a "Why?".
 
 We do this to gain
 
