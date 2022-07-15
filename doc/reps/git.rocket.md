@@ -24,19 +24,16 @@ partial list of skills practiced
 - clone
 - import into IDE
 - multiple IDE options
-- code review with rules about:
-  - comments
-  - formatting
-  - unused imports
 - rebase
 - squash
 - remove comments
-- manual merge conflict
-- script
-- follow commit message meta
+- Argh! Merge conflict! How to fix it.
 - PR
 - shell and/or github desktop
-- bitbucket and gitlab
+- How not to panic when things go really bad - which does happen
+- What we won't cover - write permissions on shared repositories
+- branching
+- 
 
 ## What Content Should We Practice On?
 
@@ -44,5 +41,30 @@ partial list of skills practiced
 - comment out Trevor's assignment app
 - these docs
 - each other's repos
+
+## How to build an understanding about git in your bones
+
+- What makes a folder a git repo, anyway?
+- What is the difference between the folder and the repo?
+- What happens with a merge?
+- How to look at what happened when to a repo?
+- What are these comments for anyway?
+- What are the advantages of a GUI and/or shell(bash) based client?
+- How to set up a git shell in Windows?
+
+## Stuff that comes up but is way less than important
+
+- Why do older devs gravitate towards the shell?
+- While I am in the shell, how to learn the basic 20+ shell commands?
+- How/when to use shell scripts?
+- How/when to use github actions?
+- What about github vs gitlab vs bitbucket?
+- What is a code review and who sets the rules?
+  - comments
+  - formatting
+  - unused imports
+  - what other?
+- Git and team social status for beginning coders
+- 
 
 
