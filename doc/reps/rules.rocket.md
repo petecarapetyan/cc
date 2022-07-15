@@ -13,6 +13,8 @@ We do this to gain
 - agility
 - pleasure
 
+You're going to interview a lot better when you are fast and confident. It's also going to have a positive effect on your first days on the team, first promotion, etc.
+
 ## How
 
 We do repetitions to move the memories down to our fingertips.
