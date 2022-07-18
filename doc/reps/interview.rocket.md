@@ -1,8 +1,16 @@
 # Interview Reps == Standards
 
-Your job interviews, as well as your entire career, depend on not just your ability to do the work of Trevor's lessons and your assignments, but also on your understanding of the coding standards that Trevor built the lessons and assignments around.
+Your job interviews, as well as your entire career, depend on _**not just**_ your ability to do the work of Trevor's lessons and your assignments, but _**also on your understanding of the coding standards**_ that Trevor built the lessons and assignments around.
 
 Sometimes it takes a lot of discussion to really "get" some of these standards. That's where it helps to have a team to interelate with, and keep bouncing ideas off of each other until it sticks.
+
+## July 2022 This Is Very New To Us
+
+We know that this is important, we just don't know _yet_ how to make this the most helpful.
+
+So we're going to start out with an iterative approach, and keep adjusting until we get a feel for what works best.
+
+How will we know? By getting feedback. And by how it seems to feel, from a participation perspective. So keep letting us know, and or even better just jump in the conversation and pull it in the direction most helpful to you.
 
 ## Starting Topics
 
@@ -40,3 +48,5 @@ This is a prelimary list of topics in a preliminary format
 - class naming conventions if an interface exists: YadaImpl
 - the basic difference between noun classes (pojos) and verb classes (services)
 - what services offer curated libaries for the enterprise?
+- how do leetcode and similar sites play into the mix?
+- What is the difference between the big 5 and more typical employers?

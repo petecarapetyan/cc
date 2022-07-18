@@ -51,6 +51,7 @@ partial list of skills practiced
 - What are these comments for anyway?
 - What are the advantages of a GUI and/or shell(bash) based client?
 - How to set up a git shell in Windows?
+- git stash
 
 ## Stuff that comes up but is way less than important
 
