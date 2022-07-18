@@ -12,12 +12,19 @@ So we're going to start out with an iterative approach, and keep adjusting until
 
 How will we know? By getting feedback. And by how it seems to feel, from a participation perspective. So keep letting us know, and or even better just jump in the conversation and pull it in the direction most helpful to you.
 
+
 ## Starting Topics
+
+_If you have interviewed recently, please feel free to make suggestions to list below_
 
 This is a prelimary list of topics in a preliminary format
 
+- refactoring - how to do ane when and what it means
+- containers - docker and dcontainers
 - IOC - Inversion of Control Container
 - singleton pattern
+- gang of 4
+- jvm
 - what is the benefit of the singleton pattern on a server
 - what is spring
 - what category of tool is maven?
