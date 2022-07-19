@@ -56,4 +56,4 @@ This is a prelimary list of topics in a preliminary format
 - the basic difference between noun classes (pojos) and verb classes (services)
 - what services offer curated libaries for the enterprise?
 - how do leetcode and similar sites play into the mix?
-- What is the difference between the big 5 and more typical employers?
+- What is the difference between  FANG Facebook Amazon Netflix Google and more typical employers?

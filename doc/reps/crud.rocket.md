@@ -21,6 +21,11 @@ Even for stuff you already know, coding together as a team lets you learn differ
 - Scripts
 - cheats
 
+## b4 We Start Each Session
+
+We must always be speaking the same language
+So we shall drill [this page](/reps/lingo/), first
+
 ## Documentation still to follow ...
 
 We've been doing this for months now in the catchup group but pretty nearly without documentation of what we did. So this doc will need to catch up with same so that we can repeat our successes from that time.
