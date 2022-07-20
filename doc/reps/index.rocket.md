@@ -37,4 +37,11 @@ We can also arrange other approaches when required:
 - **1-1 sessions** whenever the team approach isn't the right one
 - **Specially scheduled slots** such as might be necessary for European or other differences.
 
+<ore>
+Link to the calendar show below:
+<br>
+https://calendar.google.com/calendar/u/0?cid=ZHVvYzBiZnJmNDQycGRna3NsYzV0Z2k0OGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</pre>
+<br>
+<br>
+
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&mode=WEEK&src=ZHVvYzBiZnJmNDQycGRna3NsYzV0Z2k0OGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73" style="border:solid 1px #777" width="800" height="1000" frameborder="0" scrolling="no"></iframe>

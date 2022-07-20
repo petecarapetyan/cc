@@ -20,12 +20,14 @@ Unfortunately, for every session we will need to re-establish the same default l
 - How to take the first step towards FANGTY without going full stack?
 - How to take that full stack?
 - What would still be missing?
-- Wf we added that, what would it also require?
+- If we added that, what would it also require?
 - What are these terms:
   - CRUD
   - HTTP protocol
-  - PUT and GET
+  - Request Response
+  - GET and POST
   - JSON
+  - REST
   - client
   - server
   - db
