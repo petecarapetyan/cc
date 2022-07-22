@@ -2,7 +2,7 @@
 
 We would also like to accomplish each of these objectives by doing these:
 
-- reps
+- reps ...   
 - more reps
 - even more reps
 - and again more reps
