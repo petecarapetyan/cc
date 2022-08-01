@@ -63,4 +63,13 @@ This is a prelimary list of topics in a preliminary format
 ## Simple Coding Challenge Examples:
 
 - method that returns true if string is an anagram
-- 
+
+## Session Archetype Number 1
+
+There is this one class that I keep coming back to because it seems to cover a few dozen things that noobs absolutely HAVE to grasp.
+
+This is about the build and dependency injection and how they became almost sacred processes in the industry over the past couple decades.
+
+It involves libraries but also higher level abstractions resulting from constant train wrecks from 1995 to 2010 and how these train wrecks taught us builds, dependency injection and even newer deployments such as docker and AWS/Azure/GCP etc.
+
+To run this I keep quizzing along the lines of our coursework (Spring, Maven etc) and then expand those into questions of how they became important and what questions your interviewer might have derived that from. How does this differ from our assignments? What motivates the interviewer in his line of questioning?
