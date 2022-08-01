@@ -2,10 +2,45 @@
 
 ### Frequently Asked Questions
 
-- [Flexible Schedule? I don't get it](#flexible-schedule)
-- [Why Are These Optional?](#why-optional)
-- [What if my Metrics are incomplete?](#what-if-my-metrics-are-incomplete)
+- [What will we do in the CRUD Reps sessions?](#what-will-we-do-in-the-crud-reps-sessions)
+- [Why the obsessive focus on lingo?](#why-the-obsessive-focus-on-lingo)
+- [Should I come if I cannot make it every time?](#should-i-come-if-i-cannot-make-it-every-time)
 - [What role will I play on the teams?](#what-role-will-i-play-on-the-teams)
+- [Why Are These Optional?](#why-optional)
+- [Do Team Reps have anything to do with Metrics?](#do-team-reps-have-anything-to-do-with-metrics)
+- [What if my Metrics are incomplete?](#what-if-my-metrics-are-incomplete)
+- [Are Full Stack Web Apps the only way to do CRUD?](#are-full-stack-web-apps-the-only-way-to-do-crud)
+
+## What will we do in the CRUD Reps sessions?
+
+- plan, architect, and build a CRUD webapp (full stack)
+- repeat again over and over with more complex CRUD
+- split the work up, according to our current skills and needs
+
+[Bach to top of page](#frequently-asked-questions)
+
+## Why the obsessive focus on lingo?
+
+Every time a new guy shows up we all have to drop back and re-establish the lingo for what it is we are doing?
+
+Isn't this a giant waste of time when we could be coding something instead?
+
+If this drives you nuts, it should, but the remedy is to drop back and help the new guy acquire the language as quickly as possible. Why? _**Because we are doing this to get jobs!**_ And learning the lingo is how we get through the interview, get confident, and build our skills around our new language.
+
+
+[Bach to top of page](#frequently-asked-questions)
+
+## Should I come if I cannot make it every time?
+
+YES! Please come whenever you can.
+
+The process itself is easier and smoother when the same people come every time, just because work organizes itself more around familiarity.
+
+But every session is done when it is done, so if one person doesn't complete something the next guy to pick it up has to figure it out. This is how work happens in corporations sometimes, and it's a good skill to learn.
+
+If you don't finish something and come back next time, don't count on it waiting for you. It might wait, or someone else might finish it their way, depending on what is convenient.
+
+[Bach to top of page](#frequently-asked-questions)
 
 ## What role will I play on the teams?
 
@@ -15,24 +50,13 @@ One thing you'll discover from working on a team, is that it's a lot easier to g
 - Lead a team
 - Join a team
 - Support a team
+- Fix bugs
+- HTML or visual work
+- Back end or database work
 
 It's not important which role you play. What's important is that you find your approach and make it work for you. 
 
 Negotiate the role you feel most comfortable with.
-
-[Bach to top of page](#frequently-asked-questions)
-
-## Flexible Schedule
-
-It can be confusing but it is still true that - at least to some degree, we can be flexible in our scheduling of these meetings.
-
-How so? It is _**easier for me to adjust as an instructor**_, to the schedule of the highest number of students at a given time, than it is for _them_ to adjust to _my_ schedule.
-
-The much harder part is getting all bootcampers to inform us where there most opportune times are for scheduling a meeting.
-
-We'll never get this right. Even if we find that most people have one best time, others wont be available then. But at least we can try.
-
-Last - and this is really only true about the CRUD Team Meetings - we can have multiple meetings of smaller teams, if enough bootcampers are committed to this course of action. For example, 10 people in one team at 3pm ET, 12 people in another team at 8pm ET.
 
 [Bach to top of page](#frequently-asked-questions)
 
@@ -67,5 +91,17 @@ Trevor and I were talking one day about all the reps that a bootcamper graduates
 If an employer knew these stats, how much better would he view your capabilities?
 
 So the name of this game isn't perfection - you're going to do things here that weren't quantified. The name of this game is to approach a workable summary that would - at minimum - attempt to show you in the best light possible. If you don't get it all, don't sweat it. Good enough is good enough.
+
+[Bach to top of page](#frequently-asked-questions)
+
+## Are Full Stack Web Apps the only way to do CRUD?
+
+Corporations have lots of data, which means they need to do CRUD apps. 
+
+It is more and more common to use Web Apps, or their close cousin Mobile Apps - as the Full Stack approach to doing CRUD.
+
+But there are lots and lots of permutations on this, some having nothing to do with web apps, others offering only an API but no client, and still others offering machine specific apps for special use cases.
+
+There is no right or wrong way to do CRUD, we just offer Web Apps in the Full Stack approach as the most common skill that is required by corporate employers.
 
 [Bach to top of page](#frequently-asked-questions)

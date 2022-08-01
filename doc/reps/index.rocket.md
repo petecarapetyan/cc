@@ -21,9 +21,9 @@ So we're making sure every bootcamper has this opportunity.
 
 ## Team Reps
 
-- [Git Reps](git/) Mondays
+- [Interview Reps](interview/) Mondays
 - [CRUD Reps](crud/) Tues Wed Thurs
-- [Interview Reps](interview/) Fridays
+- [Git Reps](git/) Fridays
 - [Rules of Engagement](rules/)
 
 See expanded version of each of these from the linked pages.

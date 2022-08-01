@@ -57,3 +57,10 @@ This is a prelimary list of topics in a preliminary format
 - what services offer curated libaries for the enterprise?
 - how do leetcode and similar sites play into the mix?
 - What is the difference between  FANG Facebook Amazon Netflix Google and more typical employers?
+- what does it feel like to break the build?
+- what does it feel like to break production?
+
+## Simple Coding Challenge Examples:
+
+- method that returns true if string is an anagram
+- 
