@@ -66,6 +66,7 @@ partial list of skills practiced
   - unused imports
   - what other?
 - Git and team social status for beginning coders
+- How to assign an issue and when you can and cannot
 - 
 
 

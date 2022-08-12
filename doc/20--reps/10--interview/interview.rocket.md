@@ -1,4 +1,4 @@
-# Interview Reps == Standards
+# Interview Reps and Standards
 
 Your job interviews, as well as your entire career, depend on _**not just**_ your ability to do the work of Trevor's lessons and your assignments, but _**also on your understanding of the coding standards**_ that Trevor built the lessons and assignments around.
 
@@ -59,7 +59,23 @@ This is a prelimary list of topics in a preliminary format
 - What is the difference between  FANG Facebook Amazon Netflix Google and more typical employers?
 - what does it feel like to break the build?
 - what does it feel like to break production?
-
+- on the face of calculator which are services?
+- this graphic describing concerns of your interviewer:
+    https://thenewstack.io/observability-is-shifting-left-following-security-and-ops/
+- what is happy path v edge case
+- what are the 4 principles of object oriented programming?:
+  - encapsulation
+  - inheritance
+  - polymorphism
+  - abstraction
+- how would you describe ... [inheritance] and how would you use it in an example
+- how to tie in [unit testing] into another question?:
+  - "when I am unit testing for" blah blah, "I look for"
+  - "This is why I unit test for " blah blah "I look for"
+  - "In my bootcamp assignments I did maybe 100 unit tests but only 7 or were " blah blah
+  - that is a bit more like happy path programming
+- how to tie in [dependency injection] into another question?:
+    
 ## Simple Coding Challenge Examples:
 
 - method that returns true if string is an anagram

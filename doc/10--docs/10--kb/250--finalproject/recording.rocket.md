@@ -2,7 +2,7 @@
 
 As discussed in [this best-of final projects page](../best/) you may wish to make your impressive Final Project more easily acccessible for your prospective employer to view, by making a screen recording of the app.
 
-# Questions to Consider
+## Questions to Consider
 
 - [What screen recording software?](#what-screen-recording-software)
 - [Should i do multiple takes?](#should-i-do-multiple-takes)
