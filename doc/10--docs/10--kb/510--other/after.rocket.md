@@ -14,7 +14,7 @@ Your 6 month Bootcamp support window ended [Aug 1st] so this gets a little bit c
 
 If you want to continue on your own that is fine - we will still keep reviewing your assignments and (if you complete all your assignments) will help you find a job for a reasonable time depending on your specific contract, but the checkins and daily support are no longer in effect.
 
-If you wish to resume receiving all the same support you had during the 6 month Bootcamp, you can do so by registering for extended support via this link: <https://coderscampus.samcart.com/products/coders-campus-bootcamp-additional-monthly-support>
+If you wish to resume receiving all the same support you had during the 6 month Bootcamp, you can do so by registering for extended support via a link which you would request from the instructor.
 
 There are monthly fees associated with this extended support, but you are receiving a substantial discount because you already attended the 6 month Bootcamp.
 
