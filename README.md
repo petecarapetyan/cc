@@ -4,6 +4,8 @@ The cc/doc site is for _**publicly shared**_ documents useful to coderscampus bo
 
 If you need it [here is more information on what is acceptable on this site](https://github.com/petecarapetyan/cc/blob/main/doc/privacy/HOW_TO_KNOW_IF_OK.md).
 
+This site is for contributions from Java Bootcamp students. 
+
 ## A Markdown Site
 
 Primary content on this site is Markdown, or files ending in `.md` and following the markdown standard.
