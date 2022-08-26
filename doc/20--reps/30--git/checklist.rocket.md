@@ -1,3 +1,5 @@
+# Skills Checklist
+
 Possible things to go over in git reps on any day:
 
 - what is the absolute minimum to know to get through the course?
