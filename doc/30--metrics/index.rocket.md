@@ -1,14 +1,18 @@
 ```js server
 
-
-import { pageTree } from '../__shared/pageTree.js';
+export const menuNoLink = true;
+import { pageTree } from '#src/layouts/layoutData.js';
 import { ChildListMenu } from '@rocket/engine';
+export const menuLinkText = 'Metrics';
+export const subTitle = 'Metrics 4 u';
 ```
 
 # Metrics
 
-Metrics yada yada
+Personal metrics etc
 
-## Yada
+## Contents
+
+foo
 
 <div>${pageTree.renderMenu(new ChildListMenu(), sourceRelativeFilePath)}</div>

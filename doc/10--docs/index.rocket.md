@@ -1,11 +1,11 @@
 ```js server
 
-
-import { pageTree } from '../__shared/pageTree.js';
+export const menuNoLink = true;
+import { pageTree } from '#src/layouts/layoutData.js';
 import { ChildListMenu } from '@rocket/engine';
 
 export const menuLinkText = 'Docs';
-export const subTitle = 'Reference';
+export const subTitle = 'Docs rock';
 ```
 
 # Documentation

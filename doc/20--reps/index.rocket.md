@@ -1,8 +1,9 @@
 ```js server
-
-
-import { pageTree } from '../__shared/pageTree.js';
+export const menuNoLink = true;
+import { pageTree } from '#src/layouts/layoutData.js';
 import { ChildListMenu } from '@rocket/engine';
+export const menuLinkText = 'Reps';
+export const subTitle = 'Reps is preps';
 ```
 
 # Reps
