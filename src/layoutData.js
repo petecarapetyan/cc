@@ -26,11 +26,11 @@ export const layoutData = {
     },
     {
       name: 'Slack',
-      url: '',
+      url: 'http://www.coderscampus.com/join-slack',
     },
     {
       name: 'Discord',
-      url: '',
+      url: 'http://discord.com',
     },
   ],
   footerMenu: [

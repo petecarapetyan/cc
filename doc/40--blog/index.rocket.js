@@ -9,9 +9,9 @@ export const layout = new LayoutMain({
 
 export default () => html`
   <content-area>
-    <h1>Rocket Blog</h1>
+    <h1>bootcamper Blog</h1>
     <p>
-      Discover articles from the core team and contributors about Rocket, tips and tricks included!
+      Contributions are welcome, if you would like to blog in this space.
     </p>
 
     <launch-blog-overview

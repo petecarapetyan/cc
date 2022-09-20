@@ -13,6 +13,6 @@ Personal metrics etc
 
 ## Contents
 
-foo
+foo bar yada blah fixme
 
 <div>${pageTree.renderMenu(new ChildListMenu(), sourceRelativeFilePath)}</div>

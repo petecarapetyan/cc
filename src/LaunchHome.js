@@ -184,7 +184,7 @@ export class LaunchHome extends LitElement {
           display: block;
           position: absolute;
           top: -220px;
-          right: -120px;
+          right: -50px;
           z-index: -1;
           /* transform: rotate(45deg); */
         }

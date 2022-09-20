@@ -2,7 +2,7 @@ import { LayoutHome } from '@rocket/launch';
 import { layoutData } from '#src/layouts/layoutData.js';
 
 export const description =
-  'bootcamer is a student site for Coders Campus bootcampers. This is where we aggregate every kind of resource that does not fit in more specific places, like a knowledge base that you can update.';
+  'bootcamper - Study site for Coders Campus students';
 export const subTitle = 'Bootcamper student site';
 
 export const layout = new LayoutHome({
@@ -26,7 +26,7 @@ const reasons = [
   },
   {
     header: 'We have answers',
-    text: html`It's an iterative process - when we don't add answers fast enough, <a href="https://github.com/petecarapetyan/cc/pulls">Modern Web</a>,
+    text: html`It's an iterative process - when we don't add answers fast enough,
       <a href="https://lit.dev/">you can even make a Pull Request to add a question without the answer</a>, to start the process.`,
   },
   {

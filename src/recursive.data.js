@@ -13,7 +13,7 @@ export { html };
 export const layout = new LayoutSidebar({
   ...layoutData,
   description:
-    'Rocket enables everyone to code a website. Use an existing theme or create your own. Be fast by server rendering web components with little to no JavaScript.',
+    'bootcamper - Study site for Coders Campus students',
 });
 
 export const setupUnifiedPlugins = [

@@ -17,6 +17,11 @@ For every session we will need to re-establish the same default lingo. These rep
 - What acronym do we use to describe our Web Apps?
 - What are 2 challenges that FANGTY would have, that we will skip, at least at first.
 - What full stack tier(s) can we drop out and still learn dynamic Web Apps?
+People also ask
+
+Is Fang now MANGA?
+
+“FAANG is now MANGA,” tweeted Steph Sher, referring to FAANG, an acronym for American tech companies Facebook, Amazon, Apple, Netflix and Alphabet (formerly known as Google).Oct 29, 2021
 
 ## Absolute Minimum of Terms To Be Fluent In
 
