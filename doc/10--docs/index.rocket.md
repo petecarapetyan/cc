@@ -1,6 +1,5 @@
 ```js server
 
-export const menuNoLink = true;
 import { pageTree } from '#src/layouts/layoutData.js';
 import { ChildListMenu } from '@rocket/engine';
 
