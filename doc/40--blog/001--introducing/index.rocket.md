@@ -1,7 +1,4 @@
-
-
 ```js server
-
 
 import { pete } from '../../../src/data/authors.js';
 

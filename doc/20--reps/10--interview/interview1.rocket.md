@@ -1,4 +1,6 @@
-# Interview Reps and Standards
+# Interview Drills - 1
+
+These reps help you build a context for conversing easily in 
 
 Your job interviews, as well as your entire career, depend on _**not just**_ your ability to do the work of Trevor's lessons and your assignments, but _**also on your understanding of the coding standards**_ that Trevor built the lessons and assignments around.
 

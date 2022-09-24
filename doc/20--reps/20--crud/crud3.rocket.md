@@ -1,4 +1,7 @@
-# CRUD - Team Reps
+# CRUD Drills - 3
+
+
+These reps help you build muscle memory for CRUD around definitions.
 
 CRUD is what most of us will be hired for, when we graduate.
 

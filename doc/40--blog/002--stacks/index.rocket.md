@@ -1,5 +1,3 @@
-
-
 ```js server
 
 import { pete } from '../../../src/data/authors.js';
@@ -64,6 +62,16 @@ The process of replacing stacks with dumber simpler faster smaller stacks is rut
 Forget about how we got it, what's the result?
 
 A perfect Lighthouse score. Installable as an app on your phone or desktop.
+
+## Do I like it?
+
+Basically no. I hate it. Layers on layers on layers. Just shoot me.
+
+Everything is a forensics excercise. Layered code is horrifyingly not obvious, except of course to the guy who wrote the layers. It is hard to imagine a worse system, from my perspective.
+
+But it works reeeeeally well. And I have every indication that the part that I hate will resolve itself, somehow.
+
+
 
 ## How can I learn more?
 

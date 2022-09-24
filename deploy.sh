@@ -4,8 +4,8 @@
 
 rm ../rocket/examples/51-docs-theme-launch/site/pages/pageTreeData.rocketGenerated.json
 rm -rf _site
-rm -rf ../rocket/examples/51-docs-theme-launch/site/pages/10--docs/11--kb
-rm -rf ../rocket/examples/51-docs-theme-launch/site/pages/10--docs/10--first-category
+rm -rf ../rocket/examples/51-docs-theme-launch/site/pages/10--docs
+rm -rf ../rocket/examples/51-docs-theme-launch/site/pages/00-hygiene
 rm -rf ../rocket/examples/51-docs-theme-launch/site/pages/20--reps
 rm -rf ../rocket/examples/51-docs-theme-launch/site/pages/30--metrics
 rm -rf ../rocket/examples/51-docs-theme-launch/site/pages/40--blog
@@ -25,7 +25,8 @@ cp -f src/recursive.data.js ../rocket/examples/51-docs-theme-launch/site/pages
 cp -f src/LaunchHome.js ../rocket/packages/launch/src/home
 cp -f src/LayoutMain.js ../rocket/packages/launch/src
 cp -f site.webmanifest ../rocket/examples/51-docs-theme-launch/site/public/
-cp -R doc/10--docs/11--kb ../rocket/examples/51-docs-theme-launch/site/pages/10--docs
+cp -R doc/10--docs ../rocket/examples/51-docs-theme-launch/site/pages
+cp -R doc/00--hygiene ../rocket/examples/51-docs-theme-launch/site/pages
 cp -R doc/20--reps ../rocket/examples/51-docs-theme-launch/site/pages
 cp -R doc/30--metrics ../rocket/examples/51-docs-theme-launch/site/pages
 cp -R doc/40--blog ../rocket/examples/51-docs-theme-launch/site/pages

@@ -1,4 +1,8 @@
-# Git - Team Reps
+# Git Drills - 2
+
+Git reps are mostly muscle memory reps around the repetive actions you wil take as a typical programmer on a typical enterprise team.
+
+## Git Team Basics
 
 Git basics are pretty much mandatory to be an effective coder on almost any team in the world.
 
@@ -24,9 +28,6 @@ partial list of skills practiced
 - clone
 - import into IDE
 - multiple IDE options
-- rebase
-- squash
-- remove comments
 - Argh! Merge conflict! How to fix it.
 - PR
 - shell and/or github desktop

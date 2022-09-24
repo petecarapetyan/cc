@@ -1,4 +1,8 @@
-# Skills Checklist
+# Git Drills - 1
+
+Git reps are mostly muscle memory reps around the repetive actions you wil take as a typical programmer on a typical enterprise team.
+
+## Git Basics
 
 Possible things to go over in git reps on any day:
 
@@ -8,6 +12,10 @@ Possible things to go over in git reps on any day:
 - how to fork a project
 - how to "join" a project
 - how to use stash to pull down latest
+
+
+
+
 - how to make a new branch to work on an issue
 - how to use the issue name in a commit
 - what is a conventional commit and who uses it?

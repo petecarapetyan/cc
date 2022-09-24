@@ -1,4 +1,6 @@
-# What is Our Default Tues-Wed-Thurs Lingo?
+# Interview Drills - 2
+
+These reps help you build a context for yada
 
 To establish context all assignment levels 1-15 and these sessions, we need a shared language.
 

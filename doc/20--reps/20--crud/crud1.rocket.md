@@ -1,11 +1,9 @@
-# ANCILARY OBJECTIVES:
+# CRUD Drills - 1
+
+These reps help you build muscle memory for CRUD around the basics
 
 We would also like to accomplish each of these objectives by doing these:
 
-- reps ...   
-- more reps
-- even more reps
-- and again more reps
 - an example of all 4 CRUD views to explore those differences
 - gain sense of what the boilerplate in every app feels like
 - debugging/testing in dev tools with networking tab
@@ -21,5 +19,3 @@ We would also like to accomplish each of these objectives by doing these:
 - force coders to make branches and work on separate branches
 - force coders to push up their work as formal Pull Requests
 - learn how to contribute to markdown documents
-- david made changes here
-another fchange made

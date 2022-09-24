@@ -1,4 +1,8 @@
-# Reps == Repetition == Muscle Memory
+# CRUD Drills - 2
+
+These reps help you build muscle memory for CRUD around the benefits of knowing standard CRUD approaches
+
+## Reps == Repetition == Muscle Memory
 
 With these reps that we do as a team or a group, if you want that job as a coder, we believe we've got what you need to get you there.
 
