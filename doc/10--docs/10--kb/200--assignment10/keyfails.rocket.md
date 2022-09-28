@@ -2,4 +2,4 @@
 
 Spoonacular key fails
 
-Case sensitive yada yada more here
+Case sensitive placeholder placeholder more here

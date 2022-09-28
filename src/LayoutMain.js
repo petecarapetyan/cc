@@ -193,10 +193,10 @@ export class LayoutMain extends Layout {
       `,
 
       drawer__50: data =>
-        this.options.pageTree.renderMenu(new TableOfContentsMenu(), data.sourceRelativeFilePath),
+        this.options.pageTree.renderMenu(new IndexMenu(), data.sourceRelativeFilePath),
 
       sidebar__100: data =>
-        this.options.pageTree.renderMenu(new TableOfContentsMenu(), data.sourceRelativeFilePath),
+        this.options.pageTree.renderMenu(new IndexMenu(), data.sourceRelativeFilePath),
 
       content__600: data => html`
         <div class="content-previous-next">

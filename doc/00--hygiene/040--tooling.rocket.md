@@ -17,11 +17,11 @@ Assumptions
 
 ## What if you are on a mac?
 
-- yada
+- placeholder
 
 ## Historical progression of tooling
 
-- yada
+- placeholder
 
 ## When to shift to other tooling?
 

@@ -3,7 +3,7 @@
 import { pete } from '../../../src/data/authors.js';
 
 export const description =
-  'blah foo yada heh whoa there.';
+  'blah foo placeholder heh whoa there.';
 export const publishDate = new Date('2022-10-09');
 
 export const tags = ['html', 'javascript', 'webdev', 'node'];
@@ -14,6 +14,6 @@ export const authors = [pete];
 
 # First
 
-Lorem ipsum etc yada
+Lorem ipsum etc placeholder
 
-more yada more
+more placeholder more

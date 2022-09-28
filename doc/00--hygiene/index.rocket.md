@@ -9,25 +9,15 @@ export const subTitle = 'Get Organized';
 
 # Set Up
 
-Acceptable minimums to get organized for a _**solid bootcamp experience**_
+Get organized for a _**solid bootcamp experience**_
 
-## Are these recommendations or requirements?
+## Recommended? or Required?
 
-_Everything that follows is technically a recommendation until you start asking for help._ Reading that statement, you might be wondering - because that almost sounds like a veiled threat :) As you spend more time in the bootcamp, instead you will find that there is a practical side to the madness of Standards and Conventions.
+These are only recommendatations. Yet, _**recommendations may seem like requirements, once you start asking for help.**_ You may find a practical side to the Standards and Conventions that coders follow, generally.
 
-There is very little in these Setup pages that is "required." You get to do it your way, and sometimes, you should.
+You get to do it your way, and sometimes, you should. When working with others, shared approaches may be key to your success.
 
-When it's time to jump in and get help from your fellow bootcampers, or even from an instructor, _**you may find that things go much faster when you follow standard setups and conventions**_.
-
-That same advice becomes even more practical, once you begin your career as an enterprise developer. Your new employer will almost always require to use its templates and setups.
-
-## Where do Standards/Conventions/Templates Originate?
-
-You may find that most setups in the enterprise java world originate with Maven project configuration standards.
-
-You may also find that these same configurations have been further popularized and standardized via Spring Boot - itself largely based on Maven standards and archetypes.
-
-When it gets down to file structures and templates, the Spring Boot project is the primary source of the standards followed on these templates.
+That same advice becomes even more practical, once you begin your career as an enterprise developer. For example, your new employer will almost always require to use _**its**_ templates and setups.
 
 ## Standards? or Just Hygiene?
 

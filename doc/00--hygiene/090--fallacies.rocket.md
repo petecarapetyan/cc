@@ -1,5 +1,7 @@
 # Fallacies to master early:
 
+placeholder
+
 - IT is a knowable space
 - I will remember what to do when [...]
 - There is a right way to do things

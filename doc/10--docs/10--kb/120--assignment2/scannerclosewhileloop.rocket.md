@@ -1,0 +1,1 @@
+what happens when you scanner close in while loop

@@ -22,6 +22,7 @@ cp -f src/layoutData.js ../rocket/examples/51-docs-theme-launch/site/src/layouts
 cp -f src/authors.js ../rocket/examples/51-docs-theme-launch/site/src/data
 cp -f src/index.rocket.js ../rocket/examples/51-docs-theme-launch/site/pages
 cp -f src/recursive.data.js ../rocket/examples/51-docs-theme-launch/site/pages
+cp -f src/IndexMenu.js ../rocket/packages/engine/src/web-menu/menus
 cp -f src/LaunchHome.js ../rocket/packages/launch/src/home
 cp -f src/LayoutMain.js ../rocket/packages/launch/src
 cp -f site.webmanifest ../rocket/examples/51-docs-theme-launch/site/public/
