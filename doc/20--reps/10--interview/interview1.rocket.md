@@ -1,50 +1,56 @@
 # Interview Drills - 1
 
-These reps help you build a context between _**stacks learned here compared to popular apps.**_
+These reps help you build a context around _**SELF PERCEPTION**_
 
-## Basic Questions
+Before you take your place in the world, sometimes it's a good idea to ask what place? And in what world?
 
-- How does assignment 1 compare with a FANGTY Web App work:
-  F facebook
-  A amazon
-  N netflix
-  G google
-  T twitter
-  Y youtube
-- Can someone who hasn't gone beyond assignment 1 fully participate in these sessions?
-- What acronym do we use to describe our Web Apps?
-- What are 2 challenges that FANGTY would have, that we will skip, at least at first.
-- What full stack tier(s) can we drop out and still learn dynamic Web Apps?
-People also ask
+## Who Am I to the Interviewer?
 
-Is Fang now MANGA?
+These are so fundamental that even your interviewer doesn't think about them. So let's define what it is that he/she doesn't even think about.
 
-“FAANG is now MANGA,” tweeted Steph Sher, referring to FAANG, an acronym for American tech companies Facebook, Amazon, Apple, Netflix and Alphabet (formerly known as Google).Oct 29, 2021
+## Data Mangler
 
-Your job interviews, as well as your entire career, depend on _**not just**_ your ability to do the work of Trevor's lessons and your assignments, but _**also on your understanding of the coding standards**_ that Trevor built the lessons and assignments around.
+Your interviewer, his boss, and his boss's boss are all just like you, in this sense. Everybody has one central focus - managing the flow of data through the organization.
 
-Sometimes it takes a lot of discussion to really "get" some of these standards. That's where it helps to have a team to interelate with, and keep bouncing ideas off of each other until it sticks.
+Data is what holds the organization together. That's why our role is so important.
 
-## July 2022 This Is Very New To Us
+## Code Mangler
 
-We know that this is important, we just don't know _yet_ how to make this the most helpful.
+To keep the data managed, we all use code. That's why you are being interviewed for your new job, because you code. 
 
-So we're going to start out with an iterative approach, and keep adjusting until we get a feel for what works best.
+So you have to decide, are you a coder? Or are you managing a bunch of code?
 
-How will we know? By getting feedback. And by how it seems to feel, from a participation perspective. So keep letting us know, and or even better just jump in the conversation and pull it in the direction most helpful to you.
+## 5 Pillars and CRUD
 
+No, nobody on the job talks about 5 pillars or CRUD. By the time you get your new position, you are already slotted for a place in that bigger machine.
 
-    
-## Simple Coding Challenge Examples:
+We talk about CRUD and the 5 pillars here - because that's how we focus our efforts in the bootcamp. We are learning enough to be placed inside that bigger machine.
 
-- method that returns true if string is an anagram
+- Learn enough to know what is expected of the various roles.
+- Learn enough to know which role you might want to interview for.
+- Learn enough to know how you will be judged as good enough to hire.
 
-## Session Archetype Number 1
+## Coder? What Code?
 
-There is this one class that I keep coming back to because it seems to cover a few dozen things that noobs absolutely HAVE to grasp.
+- How much are you expected to memorize?
+- What is a reference coder?
+- How are you evaluated as a first year coder?
 
-This is about the build and dependency injection and how they became almost sacred processes in the industry over the past couple decades.
+## Full Stack? What Stacks?
 
-It involves libraries but also higher level abstractions resulting from constant train wrecks from 1995 to 2010 and how these train wrecks taught us builds, dependency injection and even newer deployments such as docker and AWS/Azure/GCP etc.
+- Which stacks do we specialize in at Coders Campus?
+- Why these stacks?
+- What are other stack sets?
+- What flexibility do you need to have?
 
-To run this I keep quizzing along the lines of our coursework (Spring, Maven etc) and then expand those into questions of how they became important and what questions your interviewer might have derived that from. How does this differ from our assignments? What motivates the interviewer in his line of questioning?
+## Apps? What Apps?
+
+- What does basic CRUD look like?
+- How does basic CRUD compare to MANGA?
+
+## Data? What Data?
+
+- Which types of data are you expected to deal with?
+- Do you need to memorize every type of data?
+- Where does all this data come from?
+- Where does all this data go?

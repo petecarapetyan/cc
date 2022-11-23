@@ -15,7 +15,7 @@ cp -f icons/* ../rocket/examples/51-docs-theme-launch/site/public/
 cp -f icon.svg ../rocket/examples/51-docs-theme-launch/site/public/
 cp -f images/svg/coders-campus-logo.svg ../rocket/examples/51-docs-theme-launch/site/src/assets
 cp -f images/svg/coders-campus-logo-vert.svg ../rocket/examples/51-docs-theme-launch/site/src/assets
-cp -f images/sigmund-LTzU-4PhRIY-unsplash600.jpg ../rocket/examples/51-docs-theme-launch/site/src/assets
+cp -f images/fullstack600a.gif ../rocket/examples/51-docs-theme-launch/site/src/assets
 cp -f images/MinaFPprt1.png ../rocket/examples/51-docs-theme-launch/site/public/images
 cp -f images/MinaFPprt2.png ../rocket/examples/51-docs-theme-launch/site/public/images
 cp -f src/layoutData.js ../rocket/examples/51-docs-theme-launch/site/src/layouts

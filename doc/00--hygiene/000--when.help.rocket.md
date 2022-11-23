@@ -12,11 +12,11 @@ If you get stuck in one spot for more than half a day - ask for help.
 
 ## Who to Ask for Help?
 
-Sometimes it is most practical to simply ask the instructor.
+Sometimes it is most practical to simply ask the instructor for a 1-1 to help you get un-stuck.
 
-It can also be much more beneficial to you and your fellow bootcampers to ask each other for help, for many reasons. But sometimes that is not practical, for example it could take longer, or the first person you might ask might not be helpful.
+It can also be much more beneficial to you and your fellow bootcampers to ask _**each other**_ for help, for many reasons. But sometimes that is not practical, for example it could take longer, or the first person you might ask might not be helpful.
 
-The culture here at Coders Campus is a strong inclination for students to work together to solve problems. This follows the pattern of teamwork that you will find in most successful company teams.
+The culture here at Coders Campus leans strongly towards students working together to solve problems. This follows the pattern of teamwork that you will find in most successful company teams.
 
 ## Who Benefits When Bootcampers Ask Each Other?
 

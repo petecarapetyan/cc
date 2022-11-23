@@ -8,7 +8,7 @@ export const subTitle = 'Bootcamper student site';
 export const layout = new LayoutHome({
   ...layoutData,
   titleWrapperFn: () => 'Welcome to Bootcamper',
-  background: '/sigmund-LTzU-4PhRIY-unsplash600.jpg',
+  background: '/fullstack600a.gif',
 });
 
 const reasons = [
@@ -74,7 +74,7 @@ export default () => html`
       <a slot="cta" role="listitem" href="/docs/">Get Un-Stuck</a>
       <h2 slot="reason-header">bootcamper: Student Site</h2>
 
-      <img src="../src/assets/sigmund-LTzU-4PhRIY-unsplash600.jpg" slot="background" role="presentation" />
+      <img src="../src/assets/fullstack600a.gif" slot="background" role="presentation" />
 
       <style type="text/css">
         /* workaround until Firefox supports width/height on source tags https://bugzilla.mozilla.org/show_bug.cgi?id=1694741 */

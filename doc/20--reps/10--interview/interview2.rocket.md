@@ -1,11 +1,8 @@
 # Interview Drills - 2
 
-These reps help you build a context of lingo that you are expected to understand by your interviewers.
-
-To establish context all assignment levels 1-15 and these sessions, we need a shared language.
+These reps help you build your contextual lingo that interviewers expect you to understand.
 
 For every session we will need to re-establish the same default lingo. These reps reinforce the context where all of our work _"fits"_, within these sessions.
-
 
 ## Absolute Minimum of Terms To Be Fluent In
 
@@ -21,7 +18,8 @@ For every session we will need to re-establish the same default lingo. These rep
 - db
 - ORM
 - tier
-- async
+- async v concurrent
+- thread v threads
 - data model
 - schema
 - roles BA, Product Owner, PM, QA, architect, lead, dev, ops

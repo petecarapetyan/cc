@@ -7,26 +7,16 @@ export const menuLinkText = 'SetUp';
 export const subTitle = 'Get Organized';
 ```
 
-# Set Up
+# Set Up for a Strong Start
 
 Get organized for a _**solid bootcamp experience**_
 
-## Recommended? or Required?
+## Importance of a Strong Start
 
-These are only recommendatations. Yet, _**recommendations may seem like requirements, once you start asking for help.**_ You may find a practical side to the Standards and Conventions that coders follow, generally.
+Experience has shown a surprising correlation - students who do not start strong seem to have a more difficult time finishing the bootcamp and getting that desired job in a timely manner.
 
-You get to do it your way, and sometimes, you should. When working with others, shared approaches may be key to your success.
+Correlation is not causation - and nothing prevents you from doing it the hard way. If you don't start strong - you can still struggle through! But wouldn't you rather give yourself the easiest possible chance?
 
-That same advice becomes even more practical, once you begin your career as an enterprise developer. For example, your new employer will almost always require to use _**its**_ templates and setups.
-
-## Standards? or Just Hygiene?
-
-Even if you decide to do things your own way - that is your right - hygiene is your best friend, when working with code.
-
-For example, placing your files in a _**consistent**_ and well understood manner is the kind of hygiene that may keep you from becoming distracted or frustrated as you progress through the course.
-
-Adopting your own naming conventions, or those of others, _**the primary benefit is from having a convention**_ in the first place.
-
-This is the kind of thing that defines "hygiene" within your new work environment.
+The tips on these pages can help you get set up and organized to make a strong start more easily.
 
 <div>${pageTree.renderMenu(new ChildListMenu(), sourceRelativeFilePath)}</div>

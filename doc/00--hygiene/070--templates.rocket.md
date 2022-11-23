@@ -10,6 +10,8 @@ Virtually anyone can call their approach "the better way."  So, placeholder
 
 ## Where do Standards/Conventions/Templates Originate?
 
+[this page to be completed later]
+
 You may find that most setups in the enterprise java world originate with Maven project configuration standards.
 
 You may also find that these same configurations have been further popularized and standardized via Spring Boot - itself largely based on Maven standards and archetypes.

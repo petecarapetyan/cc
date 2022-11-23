@@ -20,17 +20,17 @@ Why do I do it, if it's a bad idea?
 
 In 2014 I began following the google chrome team. They were producing this new tech called Web Components. They wanted to make it a standard.
 
-Now 8 years later, it is a standard part of the browser. Almost nobody knows about it, but many top tier shops such as google, microsoft, adobe, redhat and ING Bank have all migrated towards this new tech.
+Now 8 years later, it is a standard part of the browser. Almost nobody knows about it, but many top tier shops such as google, microsoft, adobe, redhat and ING Bank have all migrated towards this new set of standards.
 
-## But how seriously has the top tier migrated?
+## How seriously has the top tier migrated?
 
-- youtube is built on Web Components
+- Youtube is built on Web Components
 - Adobe just released their latest version of Photoshop built on Web Components. Yes, that's the app, not a web site.
 - Microsoft, Redhat, Adobe, Google, and many other top tier corporations have produced their own suite of visual components on the Web Component model. Microsoft, Google, Ionic and many others created their own Web Component tooling.
 
 Despite all of this, it is still a very small fraction of the market for new apps. React probably still has 60% of the market, with Vue and Angular taking most of the remaining. Web Components haven't even reached the red-headed-step-child level yet.
 
-## But Wait! It is much more bleeding edge than WCs
+## Whoa! It is much more bleeding edge than WCs
 
 WCs are just the beginning of the bleeding edge, here.
 

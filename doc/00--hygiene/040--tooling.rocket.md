@@ -6,26 +6,33 @@ Trevor will demonstrate an optimal path, in the video lessons:
 - assuming a windows computer
 - keeping things as straightforward as possible
 
-The benefits of this approach cannot be understated. By limiting your options you are also greatly limiting your distractions. You stay on track, and remained focused on the task at hand
+The benefits of this approach cannot be understated. By limiting your options you are also greatly limiting your distractions. You stay on track, and remained focused on the task at hand.
+
+This document will explore the benefits of expanding your horizons beyond these defaults.
 
 ## Defaults
 
 Assumptions
 - windows operating system
-- notepad++ for html, css, data
-- eclipse
+- Notepad++ for html, css, data
+- Eclipse for Java
 
-## What if you are on a mac?
+## What if you are on a Mac?
 
-- placeholder
+- Eclipse is still the default for java
+- There is no Notepad++, so VSCode may be the best bet for HTML, CSS, and JS
 
-## Historical progression of tooling
-
-- placeholder
 
 ## When to shift to other tooling?
 
-- IDE options
+- VSCode may currently be the best bet for HTML, CSS, and JS
+
+more later on
+
 - shell options
 - linting
 - plugins
+
+## Historical progression of tooling
+
+placeholder

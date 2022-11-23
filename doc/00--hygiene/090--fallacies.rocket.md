@@ -1,6 +1,6 @@
 # Fallacies to master early:
 
-placeholder
+placeholder this page to be completed later
 
 - IT is a knowable space
 - I will remember what to do when [...]

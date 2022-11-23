@@ -1,21 +1,14 @@
 # CRUD Drills - 1
 
-These reps help you build muscle memory for CRUD around the basics
+These reps help you build a context of what CRUD is and how we use that context to build our skills around that understanding.
 
-We would also like to accomplish each of these objectives by doing these:
+## Context
 
-- an example of all 4 CRUD views to explore those differences
-- gain sense of what the boilerplate in every app feels like
-- debugging/testing in dev tools with networking tab
-- debugging/testing in dev tools with console tab
-- debugging/testing in dev tools with sources tab
-- debugging/testing in dev tools with data tab
-- debugging/testing in eclipse debugging
-- testing with console log
-- awareness of testing with Jest or like libraries
-- fetches with javascript and REST
-- force usage of both VSC and Eclipse
-- force coders to work together with shared git
-- force coders to make branches and work on separate branches
-- force coders to push up their work as formal Pull Requests
-- learn how to contribute to markdown documents
+- Who uses the acronym CRUD?
+- Why do we focus on this so heavily in these reps?
+- How does CRUD relate to our understanding of Full Stack?
+- Why do enterprises pay us so generously to maintain records?
+- Explore an example of all 4 CRUD views to explore those differences.
+- Explore less obvious (google maps and youtube) CRUD construction.
+- Explore CRUD views Web 1.0
+- Explore CRUD views Web 2.0
