@@ -1,7 +1,5 @@
 # Foundation Course
 
-```This is going in the sidebar for docs before Assignment 1```
-
 ## Java Programming Fundamentals
 
 ### Variables
