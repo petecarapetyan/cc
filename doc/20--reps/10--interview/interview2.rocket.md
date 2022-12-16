@@ -13,6 +13,7 @@ For every session we will need to re-establish the same default lingo. These rep
 - GET and POST
 - JSON
 - REST
+- template engine (in this context)
 - client
 - server
 - db
