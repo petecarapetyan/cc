@@ -9,7 +9,7 @@ export const subTitle = 'Docs rock';
 
 # Documentation
 
-[About](/docs/about/) might be interesting if you want the nuts and bolts of how this site works, but mostly you'll be coming here for the Knowledge Base
+[About](/docs/about/) might be interesting if you want the nuts and bolts of how this site works, but mostly you'll be coming here for the [Drills Reference](/docs/drills/) or Knowledge Base
 
 ## By Category? of By Search?
 

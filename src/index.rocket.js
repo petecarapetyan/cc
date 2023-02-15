@@ -3,7 +3,7 @@ import { layoutData } from '#src/layouts/layoutData.js';
 
 export const description =
   'bootcamper - Study site for Coders Campus students';
-export const subTitle = 'Bootcamper student site';
+export const subTitle = 'Bootcamper resources';
 
 export const layout = new LayoutHome({
   ...layoutData,
@@ -72,7 +72,7 @@ export default () => html`
       <p slot="slogan">Shortest Route to a Career as a Coder</p>
       <a slot="cta" role="listitem" href="/reps/">Stay On Track</a>
       <a slot="cta" role="listitem" href="/docs/">Get Un-Stuck</a>
-      <h2 slot="reason-header">bootcamper: Student Site</h2>
+      <h2 slot="reason-header">bootcamper: Resources</h2>
 
       <img src="../src/assets/fullstack600a.gif" slot="background" role="presentation" />
 

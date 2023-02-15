@@ -1,7 +1,7 @@
 {
   "name": "bootcamper",
   "short_name": "cc",
-  "start_url": "https://ccfbase.web.app/index.html",
+   "start_url": "https://resources.coderscampus.com/index.html",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

@@ -6,6 +6,7 @@ When it comes to the final project, I’m really just looking for:
 
 - Is it full-stack? (Front end browser client, back end & database in this context)
 - Does it have between 3-5 screens (and 2ish CRUDs)
+- In addition to the User table that is required for registration, need to have at least 2 more tables with full CRUD.
 - Is it a little bit original (i.e. NOT a To-do app)
 - Needs to use Spring Security - Login, Registration, protected pages.
 - Deploys to localhost as Spring Application
@@ -15,6 +16,7 @@ When it comes to the final project, I’m really just looking for:
 - Scratch an itch - something you feel strongly about can make a big difference
 - Make it pretty - [remember assignment 1?]  as in copy the look and feel of your favorite app or site
 - Have imaginary conversations with prospective employers ‘See how I did this feature? I’m proud of that because …’
+- Ideally one table does a lookup to another. Such as, if you have a pizza table, it's toppings can be looked up in a toppings table.
 
 ## Documentation:
 
