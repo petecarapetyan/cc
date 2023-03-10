@@ -37,5 +37,18 @@ Your mileage may vary! Review these notes made from previous sessions and ask yo
 - Did you have any many to many relationships and did the ORM handle them well?
 - Were there external REST APIs used? If so what went well, what didn't?
 - Were there entities used that were not persisted to the database?
+- Comments protected from sql injection?
+- What was the motivation for this app?
+- How did store images in db?
+- Did you use a template for the visuals?
+- What was the trickiest part?  most difficult part?
+- If movies api then why movies in db
+- What api did you use and did you have to pay?
 
-  
+## If the developer put up his app weeks in advance:
+
+- What bugs did you have to fix?
+- Were all the bugs discovered by the first users?
+- Did the bugs fit a pattern that you expected? Or were there surprises?
+- How long did it take to fix the bugs?
+- Did you find that people reported bugs or just didn't tell you?

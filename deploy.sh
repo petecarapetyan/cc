@@ -16,8 +16,9 @@ cp -f icon.svg ../rocket/examples/51-docs-theme-launch/site/public/
 cp -f images/svg/coders-campus-logo.svg ../rocket/examples/51-docs-theme-launch/site/src/assets
 cp -f images/svg/coders-campus-logo-vert.svg ../rocket/examples/51-docs-theme-launch/site/src/assets
 cp -f images/fullstack600a.gif ../rocket/examples/51-docs-theme-launch/site/src/assets
-cp -f images/MinaFPprt1.png ../rocket/examples/51-docs-theme-launch/site/public/images
-cp -f images/MinaFPprt2.png ../rocket/examples/51-docs-theme-launch/site/public/images
+cp -f images/*.png ../rocket/examples/51-docs-theme-launch/site/public/images
+cp -f images/*.jpg ../rocket/examples/51-docs-theme-launch/site/public/images
+cp -f images/*.jpeg ../rocket/examples/51-docs-theme-launch/site/public/images
 cp -f src/layoutData.js ../rocket/examples/51-docs-theme-launch/site/src/layouts
 cp -f src/authors.js ../rocket/examples/51-docs-theme-launch/site/src/data
 cp -f src/index.rocket.js ../rocket/examples/51-docs-theme-launch/site/pages
@@ -31,3 +32,6 @@ cp -R doc/00--hygiene ../rocket/examples/51-docs-theme-launch/site/pages
 cp -R doc/20--reps ../rocket/examples/51-docs-theme-launch/site/pages
 cp -R doc/30--metrics ../rocket/examples/51-docs-theme-launch/site/pages
 cp -R doc/40--blog ../rocket/examples/51-docs-theme-launch/site/pages
+
+cd ../rocket/examples/51-docs-theme-launch
+npm run build && npm run build && npm start
