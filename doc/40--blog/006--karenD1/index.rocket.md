@@ -4,9 +4,9 @@ import { pete } from '../../../src/data/authors.js';
 
 export const description =
   'Karen D Blog';
-export const publishDate = new Date('2023-02-16');
+export const publishDate = new Date('2023-03-16');
 
-export const tags = ['spring', 'javascript', 'webdev', 'java', 'finalProject' ];
+export const tags = ['git', 'git bash', 'github', 'Github Desktop', 'command shell' ];
 // cover_image: https://dev-to-uploads.s3.amazonaws.com/i/an9z6f4hdll2jlne43u3.jpg
 
 export const authors = [pete];
@@ -51,8 +51,8 @@ A folder that holds code is often referred to as a repository or  repo. Git Hub 
 
 To save the changes to Git Hub you must run the Git commit command which commits the changes and creates a new repo version. After committing the changes, in order to add the repo version to Git Hub, you must then run the git push command in your terminal. This officially pushes(adds) the repo to Git Hub. Alternatively, you can use the Git Hub desktop version to complete the same task, but with an actual interface.
 
-<a href="/images/kd1_b.jpg"><img src="/images/kd1_b.jpg" alt="GitHubb" width="600"/></a>
-<a href="/images/kd1_c.jpg"><img src="/images/kd1_c.jpg" alt="GitHubc" width="600"/></a>
+<a href="https://www.git-tower.com/learn/cheat-sheets/git"><img src="/images/kd1_b.jpg" alt="GitHubb" width="600"/></a>
+<a href="https://rubygarage.org/blog/most-basic-git-commands-with-examples"><img src="/images/kd1_c.jpg" alt="GitHubc" width="600"/></a>
 ### What exactly happens to our code when we use these commands? 
 
 <a href="/images/kd1_d.jpg"><img src="/images/kd1_d.jpg" alt="Git Happens" width="600"/></a>
