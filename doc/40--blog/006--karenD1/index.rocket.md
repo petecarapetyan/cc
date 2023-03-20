@@ -1,18 +1,18 @@
 ```js server
 
-import { pete } from '../../../src/data/authors.js';
+import { karend } from '../../../src/data/authors.js';
 
 export const description =
   'Karen D Blog';
 export const publishDate = new Date('2023-03-16');
 
-export const tags = ['git', 'git bash', 'github', 'Github Desktop', 'command shell' ];
-// cover_image: https://dev-to-uploads.s3.amazonaws.com/i/an9z6f4hdll2jlne43u3.jpg
+export const tags = ['git', 'gitBash', 'github', 'GithubDesktop', 'commandShell'];
+  cover_image: "/images/kd1.jpeg"
 
-export const authors = [pete];
+export const authors = [karend];
 ```
 
-# Karen: Git guidance, tips and shortcuts
+# Karen Dillehay: Git guidance, tips and shortcuts
 
 Hi! I'm Karen Dillehay. I live in Minnesota, and I will be graduating from the bootcamp in 2023.
 

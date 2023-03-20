@@ -2,7 +2,7 @@ import { LayoutHome } from '@rocket/launch';
 import { layoutData } from '#src/layouts/layoutData.js';
 
 export const description =
-  'bootcamper - Study site for Coders Campus students';
+  'bootcamper - Resource site for Coders Campus students';
 export const subTitle = 'Bootcamper resources';
 
 export const layout = new LayoutHome({

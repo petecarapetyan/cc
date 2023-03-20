@@ -19,7 +19,8 @@ export const layoutData = {
   // head__42: html` <link rel="stylesheet" href="resolve:root/src/assets/styles.css" /> `,
   header__40: search,
   drawer__30: search,
-  socialLinks: [
+  description: 'A resource site for bootcamp students',
+    socialLinks: [
     {
       name: 'GitHub',
       url: 'https://github.com/petecarapetyan/cc',

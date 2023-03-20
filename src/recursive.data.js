@@ -13,7 +13,7 @@ export { html };
 export const layout = new LayoutSidebar({
   ...layoutData,
   description:
-    'bootcamper - Study site for Coders Campus students',
+    'bootcamper - Resource site for Coders Campus students',
 });
 
 export const setupUnifiedPlugins = [
